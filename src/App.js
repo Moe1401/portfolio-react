@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -32,7 +32,7 @@ function App() {
               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur, accusamus? Odio, totam sint. Esse et commodi repellat harum quo facilis dolor, molestiae, consectetur ut obcaecati cum deserunt quos ullam odio.</p>
           </div>
           <div class="headshot-container">
-            <img class="headshot" src="/assets/me.jpg" alt="photo of me"/>
+            <img class="headshot" src="../assets/me.jpg" alt="photo of me"/>
           </div>
         </section>
 
