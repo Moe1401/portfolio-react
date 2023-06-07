@@ -56,6 +56,7 @@ function App() {
                   <p class="subtext">weather dashboard with form inputs </p>
                   <p class="subtext">I search for a city, and I'm presented with current and future temperature, humidity, and wind speed for that city.
                     that city is then added to the search history</p>
+                    
                   <hr/>
                   
               </div>
@@ -66,6 +67,7 @@ function App() {
                   <h3>note taker</h3>
                   
                   <p class="subtext">write and save notes so that I can organize my thoughts and keep track of tasks I need to complete</p>
+              
                   <hr/>
                   
               </div>
